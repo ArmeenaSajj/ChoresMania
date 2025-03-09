@@ -1,0 +1,49 @@
+Name: armeena
+Username: haha
+Password: dog
+haha Login: true
+Email: armeenasjaj
+Security Question: cat
+Security Answer: cat
+haha Chores: 3, 4, 2, 1
+haha Grocery list: ksdjfsdgb
+
+Name: 1
+Username: 2
+Password: 3
+2 Login: false
+Email: 4
+Security Question: 5
+Security Answer: 6
+2 Chores: ttt, bbb, eeee, aaa
+2 Grocery list: 3fsd
+
+Name: aaaaaa
+Username: guy
+Password: 1
+guy Login: false
+Email: 112@asf.cs
+Security Question: dfdsh
+Security Answer: ss
+guy Chores: ttt, bbb, eeee, aaa
+guy Grocery list: ksdjffds3sdgb
+
+Name: jjjj
+Username: abc
+Password: def
+abc Login: false
+Email: 112@asf.cs
+Security Question: no
+Security Answer: tes
+abc Chores: a, b, c, d
+abc Grocery list: a, b, c, d
+
+Name: fsdgds
+Username: ab
+Password: aaaa
+ab Login: false
+Email: aa
+Security Question: as
+Security Answer: s
+ab Chores: a, b, c, d
+ab Grocery list: a, b, c, d

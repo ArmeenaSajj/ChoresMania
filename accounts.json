@@ -1,0 +1,26 @@
+[{
+	"username": "JohnDoe",
+	"email": "jdoe@gmail.com",
+	"password": "1234AZ",
+	"securityQuestion": "what's your first pet",
+	"securityAnswer": "dog",
+	"family": [{
+			"personName": "John",
+			"assignedChores": [
+				"dishes",
+				"laundry"
+			]
+		},
+		{
+			"personName": "Jane",
+			"assignedChores": [
+				"walk the dog",
+				"take garbage out"
+			]
+		}
+	],
+	"unassignedChores": [
+		"cook"
+	],
+	"customTheme": "#1f1f1f"
+}]
