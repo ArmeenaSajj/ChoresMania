@@ -1,7 +1,3 @@
-# ChoresMania
-An aesthetically pleasing app that encourages users to organize their household chores and chore assignment.
+# ChoresMania - Personal Updated Version
 
-More Info:
-Users are able to create an account and have their information and prefrence changes saved. Users can add up to 4 user profiles and each profile is assigned to one person in a household. Users are able to create a to-do list of chores and once they click randomize, each chore from to-do list is assigned to a profile. An additional feature includes a grocery list which users can refer to.
-
-All graphics made using canva 
+ChoresMania is a continuation of my final computer science project that fascinated me and inspired me to expand on the idea. It is designed as an aesthetically pleasing household management app that helps users organize chores and assignments while also providing a simple grocery tracking feature. Users can create an account with their information and preferences saved, and each account supports up to four household profiles to represent different members. Chores are added to a to-do list, and with a single click, the app randomizes and assigns each chore fairly across profiles. An additional grocery list feature allows households to track items easily, and all graphics were created using Canva to give the app a clean and engaging design. Originally developed as a Java Swing desktop application, ChoresMania is now being revived and modernized into a full-stack web application using React, Node.js, and MongoDB to enhance accessibility and prepare it for public release.
